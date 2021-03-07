@@ -21,10 +21,10 @@ Since the time span was short, we had to use an opensourced Harvard [Dataset](ht
 ## Accomplishments that we're proud of
 We are proud of finishing the project on time which seemed like a tough task initially but happily were also able to add most of the features that we envisioned for the app during ideation.
 
-Resource links : [Harvard Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T), [@vbookshelf](https://www.kaggle.com/vbookshelf/skin-lesion-analyzer-tensorflow-js-web-app)
-
 ## What we learned
 A lot of things, both summed up in technical & non-technical sides. Also not to mention, we enhanced our googling and Stackoverflow searching skill during the hackathon 😆
 
 ## What's next for Allegrocare
 We just really want this project to create a positive impact on everyone's lives. Still, we would love to make it more scalable & cross-platform so that the user interaction increases & we can help people get the right treatment at the right moment! :)
+
+Resource links : [Harvard Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T), [@vbookshelf](https://www.kaggle.com/vbookshelf/skin-lesion-analyzer-tensorflow-js-web-app)
