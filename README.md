@@ -1,4 +1,4 @@
-# Allegrocare
+# Allegrocare <img src="https://raw.githubusercontent.com/fias786/Allegrocare/main/assets/trans_icon.png" width="25" height="25"/>
 
 ## Inspiration
 We all are Humans & we all get allergies at some point in our life. 🤧 Now with the advent of summer, we become the target of various allergies. But if you decide to Google your symptoms… well, you have Cancer! 😨 Skin Allergies are itchy and if you scratch, the pain multiplies. Immediate treatments are necessary but good luck finding a dermatologist in this pandemic. 𝙒𝙝𝙖𝙩 𝙞𝙛 𝙩𝙝𝙚𝙧𝙚 𝙬𝙖𝙨 𝙨𝙤𝙢𝙚𝙗𝙤𝙙𝙮 𝙬𝙝𝙤 𝙘𝙤𝙪𝙡𝙙 𝙞𝙙𝙚𝙣𝙩𝙞𝙛𝙮 𝙖𝙣𝙙 𝙙𝙚𝙩𝙚𝙘𝙩 𝙩𝙝𝙤𝙨𝙚 𝙖𝙡𝙡𝙚𝙧𝙜𝙞𝙚𝙨?
