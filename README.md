@@ -1,2 +1,2 @@
 # Allegrocare
-Allegrocare is an android application
+Allegrocare is an artificially intelligent mobile app that analyses skin allergies & recommends remedies for the same. We have generated our own Tensorflow Lite Model which showed an accuracy greater than 84% and used Firebase ML Kit to host the same. Our skin lesion detection algorithm provides accurate and fast results and is packed with vital resources to fight against different allergies. COVID-19 Lockdown in several countries is still not over & we have also taken care of that. Our app provides live consultancy of allergies over our embedded chat feature via connecting to your nearest proximity heath clinic. Our app is available in most local languages like Hindi, Bengali, Chinese, Korean, etc.
